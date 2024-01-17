@@ -1,0 +1,3 @@
+! 2024-01-16 https://www.stuff.co.nz
+||buy-au.piano.io/checkout/template/cacheableShow?aid=hJGmGBJdpa&templateId=OT0DW6IXU4FV&offerId=fakeOfferId&experienceId=EXIXFX5F9C65&iframeId=offer_bc76e692aeff39e0132c-0&displayMode=inline&pianoIdUrl=https%3A%2F%2Fid-au.piano.io%2Fid%2F&widget=template&url=https%3A%2F%2Fwww.stuff.co.nz$subdocument
+stuff.co.nz###header-ads-block:style(visibility: collapse; !important)
